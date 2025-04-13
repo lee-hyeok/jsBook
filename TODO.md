@@ -11,4 +11,5 @@
 - 터미널에서 세번째 추가함
 - 새로운 기능을 추가합시다.
 - v1.2를 위한 새로운 기능이라...
+- rebase test #2 in feature
 - rebase test #3 in develop
